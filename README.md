@@ -1,2 +1,4 @@
 # Fraud_Detection_Model
-Fraud Detection Model is a Model Which predicts the Frauds in transactions with the accuracy of 99% with more generalized way. 
+A fraud detection model is a Model That predicts fraud in transactions with an accuracy of 99% in a more generalized way. ex : f1_score : 94%
+The model I have used is the XGBOOST Algorithm.
+Technologies I used: Python, Pandas, Numpy, Scikit-learn, Matplotlib, and Seaborn
